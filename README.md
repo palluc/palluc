@@ -1,39 +1,38 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:447b66,100:f6c915&text=Luciana%20Palucci&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=50&desc=Clinical%20Programmer%20|%20Application%20Support&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
+<p>
+<h3 align="center">Luciana Palucci</h3>
 </p>
+
+___
+
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?color=0A75AD&font=Arial&size=20&duration=2000&pause=1000&center=true&vCenter=true&background=80FFB700&multiline=false&repeat=true&width=1000&lines=Data+Programmer;Delivering+Application%20Support%2C%20SAS%20+%26+%20+%20Power%20BI;%20Insights%20for%20the%20CRO%20/%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Application support • SAS • Power BI • Data Validation • Report Design 
+</p>
+<p align="center">
+Provide data insight and data validation and application support.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:447b66,100:f6c915&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=20&text=Welcome&desc=To+My+GitHub+Page&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
+</p>
+
+---
 
 ## About Me 👩
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 <p>
-Clinical Programmer with background experience in the Contract Research Organization (CRO)/Acedemic Research Organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br>
-</br>
-I oversaw the data management part throughout the clinical trial phases, ensuring data accuracy and integrity from data collection to submission to regulatory authorities.</br>
-</br>
-Developped and maintained clinical programs to extract, validate, and create reports on clinical trial data.  
+Data programmer with background experience in the Contract Research Organization (CRO)/Acedemic Research Organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br></br>
+In my passed work experience I oversaw the data management part throughout the study of a clinical trial, ensuring data accuracy and integrity throughout the data collection to data submission and study closure.</br></br>
+Maintained documentation and logs of received, extracted, and delivered datasets according to standard procedures.</br></br>
+Developed user reports for data verifications to application users.  
 </p>
 
 ***
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=12&duration=2000&pause=1000&color=000000&center=false&vCenter=false&background=80FFB700&multiline=true&repeat=false&width=500&height=60&lines=>%20Clinical%20Programmer;>%20Delivering%20Application%20Support%2C%20SAS%20+%26+%20+%20Database%20Programming;>%20Insights%20for%20the%20CRO%20/%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
-</p>
 
-## Objective
-Expand Python programming and explore into the data science field, specifically using reporting tools.
-
-## Skills
-- eCRF Design and Support
-- SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)
-- Python
-  - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
-  - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
-  - [WebScraping with Beautiful Soup and Database Write with SQLite3 Engine](https://github.com/palluc/DS_E4_Database_WebScraping)
-  - [Working with JSON Format and Introduction to API](https://github.com/palluc/DS1_E5_JSON_API)
-  - [Exploring Matplotlib and Linear Regression](https://github.com/palluc/DS1_E6_Matplotlib_LinearRegression)
-  - [Exploring Matplotlib and K-Means Clustering](https://github.com/palluc/DS1_E7_Matplotlib_KMeans)
-- Power BI
-- ETL - Microsoft BI
-
-## Some Tools I Have Used and Learned :hammer_and_wrench:
+## Tools Used and Learned :hammer_and_wrench:
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
@@ -47,6 +46,19 @@ Expand Python programming and explore into the data science field, specifically 
 <a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a>
 </p>
+
+## Skills
+- eCRF Design and Support
+- SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)
+- Python
+  - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
+  - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
+  - [WebScraping with Beautiful Soup and Database Write with SQLite3 Engine](https://github.com/palluc/DS_E4_Database_WebScraping)
+  - [Working with JSON Format and Introduction to API](https://github.com/palluc/DS1_E5_JSON_API)
+  - [Exploring Matplotlib and Linear Regression](https://github.com/palluc/DS1_E6_Matplotlib_LinearRegression)
+  - [Exploring Matplotlib and K-Means Clustering](https://github.com/palluc/DS1_E7_Matplotlib_KMeans)
+- Power BI
+- ETL - Microsoft BI
 
 ## Certifications and Trainings
 <p>
