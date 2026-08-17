@@ -2,10 +2,9 @@
 <h3 align="center">Luciana Palucci</h3>
 </p>
 
-___
-
+##
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?color=0A75AD&font=Arial&size=20&duration=2000&pause=1000&center=true&vCenter=true&background=80FFB700&multiline=false&repeat=true&width=1000&lines=Data+Programmer;Delivering+Application%20Support%2C%20SAS%20+%26+%20+%20Power%20BI;%20Insights%20for%20the%20CRO%20/%20ARO%2C%20Passenger%20Transport%20Sectors" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?color=0A75AD&font=Arial&size=20&duration=2000&pause=500&center=true&vCenter=true&background=80FFB700&multiline=false&repeat=true&width=1000&lines=Data+Programmer;Delivering+Application+Support;SAS+programming;Power+BI;%20Insights%20for+:+CRO%20%7C%20ARO+%7C+Passenger%20Transport%20Sectors" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,12 +14,7 @@ ___
 Provide data insight and data validation and application support.
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:447b66,100:f6c915&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=20&text=Welcome&desc=To+My+GitHub+Page&descSize=10&descAlign=50&descAlignY=50" width="100%"/>
-</p>
-
 ---
-
 ## About Me 👩
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 <p>
@@ -31,8 +25,7 @@ Developed user reports for data verifications to application users.
 </p>
 
 ***
-
-## Tools Used and Learned :hammer_and_wrench:
+## Technical Skills :hammer_and_wrench:
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
@@ -47,7 +40,7 @@ Developed user reports for data verifications to application users.
 <a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a>
 </p>
 
-## Skills
+## Projects :INFORMATION_DESK_PERSON:
 - eCRF Design and Support
 - SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)
 - Python
@@ -60,6 +53,7 @@ Developed user reports for data verifications to application users.
 - Power BI
 - ETL - Microsoft BI
 
+
 ## Certifications and Trainings
 <p>
 <div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>
@@ -70,11 +64,17 @@ Developed user reports for data verifications to application users.
 </div>
 </p>
 
+##
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:447b66,100:f6c915&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=20" width="100%"/>
+</p>
+
 ## Connect with me
 <p>
 <a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;</a>
 <a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X%20(formerly%20twitter)&logoColor=white"/>&nbsp;&nbsp;</a>
 </p>
+
 
 <!--
 <h4>👨‍💻 I’m currently working on ...:</h4>
