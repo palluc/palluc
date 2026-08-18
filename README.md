@@ -25,20 +25,46 @@ Developed user reports for data verifications to application users.
 </p>
 
 ***
-## Technical Skills :hammer::wrench:
-<p>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SAS--Software-282C34?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow&logoSize=40" title="Python" alt="Python" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/ETL-Microsoft%20BI-282C34?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?style=flat&logo=css3&logoColor=#1572B6&logoSize=40" title="CSS" alt="CSS" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON" style="pointer-events=none;"/></a>
-<a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a>
-</p>
+
+## Technical Skills :hammer::wrench: </br>
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none; padding: 8px; text-align: left;"><td style="border: none; padding: 8px; text-align: left;">
+
+![Oracle HS-InForm6](https://img.shields.io/badge/Oracle%20HS-InForm6-282C34.svg?&style=flat&logo=Oracle%20HS-InForm6&logoColor=white)&nbsp;</td>
+<td style="border: none; padding: 8px; text-align: left;"><a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>&nbsp;</td>
+<td style="border: none; padding: 8px; text-align: left;"><a href="#"><img src="https://img.shields.io/badge/SAS-282C34?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>&nbsp;</td>
+</tr>
+
+<tr>
+<td><a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite" style="pointer-events=none;"/></a>&nbsp;</td>
+<td><a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow&logoSize=40" title="Python" alt="Python" style="pointer-events=none;"/></a>&nbsp;</td>
+<td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI" style="pointer-events=none;"/></a>&nbsp;</td>
+</tr>
+
+<tr>
+<td><a href="#"><img src="https://img.shields.io/badge/ETL-Microsoft%20BI-282C34?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI" style="pointer-events=none;"/></a>&nbsp;</td>
+<td><a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5" style="pointer-events=none;"/></a>&nbsp;</td>
+<td><a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?style=flat&logo=css3&logoColor=#1572B6&logoSize=40" title="CSS" alt="CSS" style="pointer-events=none;"/></a>&nbsp;</td>
+</tr>
+
+<tr>
+<td><a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON" style="pointer-events=none;"/></a></td>
+<td><a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a></td>
+</tr>
+
+</table>  
+
+
+##
+<details>
+<summary><b>Other knowledge, always learning :brain:</b></summary> <br/>
+
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+</details>
+
+<!--
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+-->
 
 ## Projects - Showcase :toolbox:
 - Python
