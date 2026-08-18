@@ -25,7 +25,7 @@ Developed user reports for data verifications to application users.
 </p>
 
 ***
-## Technical Skills :hammer_and_wrench:
+## Technical Skills :hammer::wrench:
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForm6&logoColor=white&logoSize=40" title="InForm6" alt="Oracle%20HS-InForm6" style="pointer-events=none;"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>
@@ -40,9 +40,7 @@ Developed user reports for data verifications to application users.
 <a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a>
 </p>
 
-## Projects :INFORMATION_DESK_PERSON:
-- eCRF Design and Support
-- SAS Programming (SAS Base, Macro, Proc SQL, Proc Report, Proc Freq)
+## Projects - Showcase :toolbox:
 - Python
   - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
   - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
