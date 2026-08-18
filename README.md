@@ -15,10 +15,10 @@ Provide data insight and data validation and application support.
 </p>
 
 ---
-## About Me 👩
+## 👩 About Me 
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 <p>
-Data programmer with background experience in the Contract Research Organization (CRO)/Acedemic Research Organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br></br>
+Data programmer with background experience in the contract research organization (CRO) / academic research organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br></br>
 In my passed work experience I oversaw the data management part throughout the study of a clinical trial, ensuring data accuracy and integrity throughout the data collection to data submission and study closure.</br></br>
 Maintained documentation and logs of received, extracted, and delivered datasets according to standard procedures.</br></br>
 Developed user reports for data verifications to application users.  
@@ -26,34 +26,29 @@ Developed user reports for data verifications to application users.
 
 ***
 
-## Technical Skills :hammer::wrench: </br>
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none; padding: 8px; text-align: left;"><td style="border: none; padding: 8px; text-align: left;">
-
+## :hammer_and_wrench: Technical Skills </br>
+<!--
+<td style="border: none; padding: 8px; text-align: left;">
 ![Oracle HS-InForm6](https://img.shields.io/badge/Oracle%20HS-InForm6-282C34.svg?&style=flat&logo=Oracle%20HS-InForm6&logoColor=white)&nbsp;</td>
-<td style="border: none; padding: 8px; text-align: left;"><a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white&logoSize=50" title="Clinical1" alt="Clinical1" style="pointer-events=none;"/></a>&nbsp;</td>
-<td style="border: none; padding: 8px; text-align: left;"><a href="#"><img src="https://img.shields.io/badge/SAS-282C34?style=flat&logo=SAS&logoColor=blue&logoSize=40" title="SAS" alt="SAS" style="pointer-events=none;"/></a>&nbsp;</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,php,bash" alt="Python, JavaScript, TypeScript, Go, PHP, Bash" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+          https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+          
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,php,bash" alt="Python, JavaScript, TypeScript, Go, PHP, Bash" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+-->
 
-<tr>
-<td><a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57&logoSize=40" title="SQLite" alt="SQLite" style="pointer-events=none;"/></a>&nbsp;</td>
-<td><a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow&logoSize=40" title="Python" alt="Python" style="pointer-events=none;"/></a>&nbsp;</td>
-<td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white&logoSize=40" title="Power%20BI" alt="Power%20BI" style="pointer-events=none;"/></a>&nbsp;</td>
-</tr>
+<a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForn6&logoColor=white"  height="50" alt="InForm6" style="pointer-events=none"/></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white" height="50" alt="Clinical1" style="pointer-events=none"/></a>&nbsp; <a href="#"><img src="https://img.shields.io/badge/SAS-282C34?style=flat&logo=SAS&logoColor=blue"  height="50" alt="SAS" style="pointer-events=none"/></a>&nbsp;
 
-<tr>
-<td><a href="#"><img src="https://img.shields.io/badge/ETL-Microsoft%20BI-282C34?style=flat&logo=ETL&logoColor=white&logoSize=40" title="ETL-BI" alt="ETL-BI" style="pointer-events=none;"/></a>&nbsp;</td>
-<td><a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?style=flat&logo=HTML5&logoColor=#E34F26&logoSize=40" title="HTML5" alt="HTML5" style="pointer-events=none;"/></a>&nbsp;</td>
-<td><a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?style=flat&logo=css3&logoColor=#1572B6&logoSize=40" title="CSS" alt="CSS" style="pointer-events=none;"/></a>&nbsp;</td>
-</tr>
+<a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57" alt="SQLite" style="pointer-events=none"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow"  alt="Python" style="pointer-events=none"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white" alt="Power+BI" style="pointer-events=none"/></a>&nbsp;&nbsp;
 
-<tr>
-<td><a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000&logoSize=40" title="JSON" alt="JSON" style="pointer-events=none;"/></a></td>
-<td><a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD&logoSize=40" title="XML" alt="XML" style="pointer-events=none;"/></a></td>
-</tr>
+<a href="#"><img src="https://img.shields.io/badge/ETL-Microsoft%20BI-282C34?style=flat&logo=ETL&logoColor=white"  alt="ETL-BI" style="pointer-events=none"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?style=flat&logo=HTML5&logoColor=#E34F26" alt="HTML5" style="pointer-events=none"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?style=flat&logo=css3&logoColor=#1572B6"  alt="CSS" style="pointer-events=none"/></a>&nbsp;
 
-</table>  
-
+<a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000" alt="JSON" style="pointer-events=none"/></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD" alt="XML" style="pointer-events=none"/></a>&nbsp;
 
 ##
 <details>
@@ -66,7 +61,7 @@ Developed user reports for data verifications to application users.
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 -->
 
-## Projects - Showcase :toolbox:
+## :toolbox: Projects - Showcase 
 - Python
   - [Text File Input/Output](https://github.com/palluc/DS1-E1-FileIO)
   - [Regular Expression and Pandas Dataframe](https://github.com/palluc/DS1_E2_RegularExpression)
@@ -77,8 +72,7 @@ Developed user reports for data verifications to application users.
 - Power BI
 - ETL - Microsoft BI
 
-
-## Certifications and Trainings
+## :notebook: Certifications and Trainings
 <p>
 <div><a href="https://www.citiprogram.org/verify/?w61ca8998-c5cd-42c8-a271-e6a521f51878-61768179">Good Clinical Practice (GCP) - Canada</a>
 </div>
@@ -88,17 +82,23 @@ Developed user reports for data verifications to application users.
 </div>
 </p>
 
+## :chart_with_upwards_trend: Hobbies
+- Reading
+- Walking ... :dog2:
+- Crochet 
+- Sewing
+- Biking
+
 ##
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:447b66,100:f6c915&animation=fadeIn&textBg=false&fontColor=191970&reversal=true&fontAlignY=25&fontAlign=50&fontSize=20" width="100%"/>
 </p>
 
-## Connect with me
-<p>
+## :envelope: Connect with me 
+<p align="center">
 <a href="https://linkedin.com/in/luciana-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;</a>
 <a href="https://x.com/JP18679157"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X%20(formerly%20twitter)&logoColor=white"/>&nbsp;&nbsp;</a>
 </p>
-
 
 <!--
 <h4>👨‍💻 I’m currently working on ...:</h4>
