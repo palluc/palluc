@@ -40,6 +40,8 @@ Developed user reports for data verifications to application users.
 
 <a href="#"><img src="https://img.shields.io/badge/Oracle%20HS-InForm6-282C34?style=flat&logo=Oracle%20HS-InForn6&logoColor=white"  height="50" alt="InForm6" style="pointer-events=none"/></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Oracle%20LS-Clinical%20One-282C34?style=flat&logo=Oracle%20LS-%20Clinical%20One&logoColor=white" height="50" alt="Clinical1" style="pointer-events=none"/></a>&nbsp; <a href="#"><img src="https://img.shields.io/badge/SAS-282C34?style=flat&logo=SAS&logoColor=blue"  height="50" alt="SAS" style="pointer-events=none"/></a>&nbsp;
 
+
+<a href="#"><img src="https://img.shields.io/badge/SQL-282C34?style=flat&logo=SQL&logoColor=#003B57" alt="SQL" style="pointer-events=none"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/SQLite-282C34?style=flat&logo=SQLite&logoColor=#003B57" alt="SQLite" style="pointer-events=none"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Python-282C34?style=flat&logo=Python&logoColor=yellow"  alt="Python" style="pointer-events=none"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-282C34?style=flat&logo=Power%20BI&logoColor=white" alt="Power+BI" style="pointer-events=none"/></a>&nbsp;&nbsp;
@@ -52,9 +54,11 @@ Developed user reports for data verifications to application users.
 
 ##
 <details>
-<summary><b>Other knowledge, always learning :brain:</b></summary> <br/>
+<summary><b>:brain: Other knowledge, always learning </b></summary> <br/>
 
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+
 </details>
 
 <!--
@@ -84,7 +88,7 @@ Developed user reports for data verifications to application users.
 
 ## :chart_with_upwards_trend: Hobbies
 - Reading
-- Walking ... :dog2:
+- Walking ... :dog2: :walking_woman:
 - Crochet 
 - Sewing
 - Biking
