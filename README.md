@@ -18,10 +18,11 @@ Provide data insight and data validation and application support.
 ## 👩 About Me 
 <!-- Clinical Database Programmer, SAS Programmer, Application Support -->
 <p>
-Data programmer with background experience in the contract research organization (CRO) / academic research organization (ARO) and passenger travel industries, and an interest in analytical thinking and a dedication to problem solving for application support.</br></br>
-In my passed work experience I oversaw the data management part throughout the study of a clinical trial, ensuring data accuracy and integrity throughout the data collection to data submission and study closure.</br></br>
-Maintained documentation and logs of received, extracted, and delivered datasets according to standard procedures.</br></br>
-Developed user reports for data verifications to application users.  
+Data programmer with background experience in the contract research organization (CRO) / academic research organization (ARO) and enterprise application support in the passenger travel industry.</br></br>
+In my last work experience I oversaw the data programming management part throughout the lifecycle of a clinical study database, that resulted in ensuring data accuracy and integrity in the data collection phase to study closure and data submission.</br></br>
+Maintained documentation and logs of received, extracted, and delivered datasets according to industry and regulatory standard procedures.</br></br>
+Developed reports of data verifications for application users.</br></br>
+An interest in analytical thinking and a dedication to problem solving for application support.
 </p>
 
 ***
