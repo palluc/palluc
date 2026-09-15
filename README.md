@@ -53,6 +53,8 @@ An interest in analytical thinking and a dedication to problem solving for appli
 
 <a href="#"><img src="https://img.shields.io/badge/JSON-282C34?style=flat&logo=JSON&logoColor=#000000" alt="JSON" style="pointer-events=none"/></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/XML-282C34?style=flat&logo=XML&logoColor=#005FAD" alt="XML" style="pointer-events=none"/></a>&nbsp;
 
+<a href="#"><img src="Images/sas-sql-essentials-knowledge-badge.png?style=flat&logo=JSON&logoColor=#000000" alt="SAS SQL Essentials Knowledge Badge" style="pointer-events=none"/></a>&nbsp;
+
 ##
 <details>
 <summary><b>:brain: Other knowledge, always learning </b></summary> <br/>
